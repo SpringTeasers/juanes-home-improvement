@@ -62,7 +62,7 @@ h1, h2, h3, h4 { color: var(--navy-800); line-height: 1.15; font-weight: 700; }
   gap: 20px; padding: 14px 0;
 }
 .brand { display: inline-flex; align-items: center; }
-.brand-logo { height: 44px; width: auto; }
+.brand-logo { height: 88px; width: auto; }
 .nav { display: flex; align-items: center; gap: 26px; }
 .nav a {
   color: var(--navy-800); font-weight: 600; font-size: .98rem;
